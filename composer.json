@@ -1,0 +1,11 @@
+{
+    "name":         "qaGraph",
+    "description":  "Graphing environment for common Qafoo graphs",
+    "require":      {
+        "zetacomponents/base": "*",
+        "zetacomponents/graph": "*"
+    },
+    "config":       {
+        "vendor-dir": "src/library"
+    }
+}
